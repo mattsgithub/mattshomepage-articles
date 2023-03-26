@@ -1,0 +1,7 @@
+Title: Collaborative Filtering 
+Slug: collaborative_filtering 
+Date: 2018-02-15
+Category: Articles 
+Tags: machine learning
+Summary: Let's build a simple recommender system using mean-centered Pearson correlation
+Image: /images/collaborativefiltering.png
